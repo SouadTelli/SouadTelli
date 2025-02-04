@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi I am Souad
 Hi there! I'm Souad, a passionate software developer and open - source enthusiast. I love building things that solve problems and make people's lives easier.<br>I'm currently learning more about list technologies, languages, or tools you're focused, e.g, "Machine learning with Python"<br>Always looking for new opportunities to collaborate on interesting projects and learn from others.  <br><br>Feel free to browse my repositories, and don't hesitate to reach out if you'd like to work on something together or just chat about tech!
 
 
